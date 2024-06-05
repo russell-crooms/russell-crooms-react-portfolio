@@ -26,7 +26,10 @@
 .about-section-right {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: 80px;
+    border: 1px solid green;
 }
 
 .about-section-left img {
