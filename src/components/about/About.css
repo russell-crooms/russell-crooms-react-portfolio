@@ -1,0 +1,46 @@
+.about-section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px;
+}
+
+.about-header {
+    position: relative;
+}
+
+.about-header h1 {
+    padding: 0px 30px;
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.about-section {
+    display: flex;
+    gap: 80px;
+    margin-bottom: 50px; /*tentative please remove */
+}
+
+.about-section-right {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.about-section-left img {
+    width: 450px;
+    height: 450px;
+}
+
+.about-paragraphs {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 500; 
+}
+
+
+
