@@ -7,8 +7,8 @@ const Hero = () => {
       <img src={russell_hero_image} alt="" />
       <h1><span>I'm Russell Crooms,</span> Frontend Developer based in Texas, USA.</h1>
       <p>
-        I am a Frontend Developer that specializes in using React, HTML, CSS,
-        JavaScript and other popular technologies to build beautiful, and
+        I am a Frontend Developer that specializes in using HTML, CSS,
+        JavaScript, React and other popular technologies to build beautiful, and
         customer friendly apps.
       </p>
       <div className="hero-action">
