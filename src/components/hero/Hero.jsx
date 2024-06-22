@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <img src={russell_hero_image} alt="" />
-      <h1><span>I'm Russell Crooms,</span> Frontend Developer based in Texas, USA.</h1>
+      <h1>I'm <span>Russell Crooms,</span> Frontend Developer based in Texas, USA.</h1>
       <p>
         I am a Frontend Developer that specializes in using HTML, CSS,
         JavaScript, React and other popular technologies to build beautiful, and
