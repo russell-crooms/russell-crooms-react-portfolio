@@ -17,7 +17,7 @@ const Portfolio = () => {
          <div className="mywork-showmore">
             <p>Show More</p>
             <img src={arrow_icon} alt="View my work" />
-        </div> 
+        </div>   
         */}
     </div>
   )
